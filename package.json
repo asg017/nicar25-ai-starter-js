@@ -1,0 +1,30 @@
+{
+  "name": "nicar25-ai-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asg017/nicar25-ai-starter-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asg017/nicar25-ai-starter-js/issues"
+  },
+  "homepage": "https://github.com/asg017/nicar25-ai-starter-js#readme",
+  "dependencies": {
+    "@ai-sdk/openai": "^1.1.10",
+    "@huggingface/transformers": "^3.3.3",
+    "ai": "^4.1.36",
+    "better-sqlite3": "^11.8.1",
+    "deno": "^2.1.9",
+    "ollama": "^0.5.13",
+    "sqlite-vec": "^0.1.7-alpha.2",
+    "zod": "^3.24.2"
+  }
+}
