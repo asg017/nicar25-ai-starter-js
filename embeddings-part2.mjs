@@ -6,7 +6,7 @@ const ollama = new Ollama();
 
 async function main() {
 
-  const db = new Database("../nbc-headlines-scraper/headlines-202409-now.db");
+  const db = new Database("nbc-articles-nicar.db");
   sqliteVec.load(db);
   
   const query = "reproductive rights";

@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "download:nbc": "curl -o nbc-articles-nicar.db 'https://delicate-dream-7407.fly.storage.tigris.dev/nicar25/nbc-articles-nicar.db'",
+    "download:nicar25-schedule": "curl -o nicar-2025-schedule.json 'https://schedules.ire.org/nicar-2025/nicar-2025-schedule.json'",
+    "download": "npm run download:nicar25-schedule && npm run download:nbc"
   },
   "repository": {
     "type": "git",

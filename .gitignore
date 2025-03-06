@@ -128,3 +128,12 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+# nicar
+nicar-2025-schedule.json
+nbc-articles-nicar.db
+
+*.db
+*.csv
+*.ipynb
