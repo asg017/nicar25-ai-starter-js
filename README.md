@@ -3,7 +3,7 @@
 This repo contains the code and tipsheet for the [*"AI starter pack: JavaScript"*](https://schedules.ire.org/nicar-2025/index.html#1175) class at [NICAR25](https://www.ire.org/training/conferences/nicar-2025/), happening on Friday March 7,  @ 2:15pm.
 
 
-[SLIDES](https://docs.google.com/presentation/d/1bFHQg6DAoiKJ7G_yGF2mM1X3WWtN6tTGQMbZuvg2678/edit?usp=sharing)
+[SLIDES](https://docs.google.com/presentation/d/1bFHQg6DAoiKJ7G_yGF2mM1X3WWtN6tTGQMbZuvg2678/edit?usp=sharing) • [FEEDBACK FORM](https://forms.gle/ZSp9fzGEidcM9eJT6)
 
 ## Part 1: Embeddings
 
